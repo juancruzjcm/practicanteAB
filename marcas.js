@@ -1,1 +1,1 @@
-let marcas = [adidas,reebok,nike]
+let marcas = [adidas,reebok,nike,vans]
