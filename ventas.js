@@ -1,0 +1,4 @@
+function venta( ventas){
+    ventas ++
+} 
+
