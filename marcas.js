@@ -1,3 +1,3 @@
-let marcas = ["adidas","reebok","nike","vans",'dc','lotto','puma']
+let marcas = ["adidas",'dc','lotto','puma']
 
 
