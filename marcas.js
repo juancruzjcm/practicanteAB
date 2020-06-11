@@ -1,1 +1,1 @@
-let marcas = []
+let marcas = ['dc','lotto','puma']
