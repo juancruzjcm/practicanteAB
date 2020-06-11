@@ -1,1 +1,1 @@
-let inventario
+let inventario = 'prendas'
